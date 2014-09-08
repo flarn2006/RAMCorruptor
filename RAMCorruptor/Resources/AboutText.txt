@@ -1,0 +1,42 @@
+This program serves no real practical purpose that I can think of. I wrote it because I like causing random glitches in video games.
+
+Using this in most Windows programs will simply cause them to crash. However, in an emulator, if you select the correct RAM range (Cheat Engine will help you find this) old video games will cause much more interesting effects.
+
+Special thanks:
+
+* MainMemory, for his ProcessMemory library
+
+* Dark Byte, for Cheat Engine
+
+* TheZZAZZGlitch on YouTube, who inspired me to write this program with some of his Pokémon ROM hacks
+
+* Sega, for Sonic 1 (source of partial heavily-corrupted screenshots used for icon and About box)
+
+This program is licensed under the MIT License. <http://opensource.org/licenses/MIT>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Try and find the Easter egg in the About box without looking at the source code!)

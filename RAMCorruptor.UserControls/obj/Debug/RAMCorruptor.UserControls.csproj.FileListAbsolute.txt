@@ -1,0 +1,5 @@
+D:\src\vs2013\RAMCorruptor\RAMCorruptor.UserControls\bin\Debug\RAMCorruptor.UserControls.dll
+D:\src\vs2013\RAMCorruptor\RAMCorruptor.UserControls\bin\Debug\RAMCorruptor.UserControls.pdb
+D:\src\vs2013\RAMCorruptor\RAMCorruptor.UserControls\obj\Debug\RAMCorruptor.UserControls.dll
+D:\src\vs2013\RAMCorruptor\RAMCorruptor.UserControls\obj\Debug\RAMCorruptor.UserControls.pdb
+D:\src\vs2013\RAMCorruptor\RAMCorruptor.UserControls\obj\Debug\RAMCorruptor.UserControls.csprojResolveAssemblyReference.cache
